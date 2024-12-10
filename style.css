@@ -1,0 +1,11 @@
+
+
+.navbar li {
+    list-style-type: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
